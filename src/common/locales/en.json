@@ -2,6 +2,6 @@
 {
   "CANCEL_CLAIM_ERROR_HEADING": "Error canceling claim",
   "CANCEL_CLAIM_ERROR_BODY": "Please try again. If that doesn’t work, please contact our Customer Care team.",
-  "CANCEL_CLAIM_SUCCESS_HEADING": "Claim canceled"
-  "REMOVE_NAMED_FILE": "Remove file {name}",
+  "CANCEL_CLAIM_SUCCESS_HEADING": "Claim canceled",
+  "REMOVE_NAMED_FILE": "Remove file {name}"
 }
